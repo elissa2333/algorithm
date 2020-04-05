@@ -1,0 +1,11 @@
+# IDE
+.vscode/
+.idea/
+
+# 可执行文件
+*.exe
+
+# 静态文件
+*.mp4
+*.png
+*.jpg
